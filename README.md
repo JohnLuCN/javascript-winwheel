@@ -47,5 +47,6 @@ Douglas McKechie https://github.com/zarocknz
 
 Keep informed about Winwheel.js by following https://twitter.com/dougtesting
 
-Need to invoke below CDN to get TweenMax.js in China
+##Need to invoke below CDN to get TweenMax.js in China
 <script src="https://cdn.bootcss.com/gsap/latest/TweenMax.min.js"></script>
+John Lu https://github.com/johnlucn
